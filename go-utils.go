@@ -2,6 +2,6 @@ package goutils
 
 import "fmt"
 
-func test() {
+func Test() {
 	fmt.Printf("TEST")
 }
